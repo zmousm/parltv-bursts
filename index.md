@@ -23,7 +23,7 @@ layout: index
 1. [2014-12-23](#2014-12-23)
 1. [2014-12-29](#2014-12-29)
 
-## lalakoko 2012-10-30
+## lalakoko222 2012-10-30
 * max 1K streams, 550 Mbps
 * total 36K streams, 360 GB
 
