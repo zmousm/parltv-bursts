@@ -1,6 +1,6 @@
 ---
 title: Hellenic Parliament WebTV traffic bursts
-layout: index
+layout: index2
 ---
 # Hellenic Parliament WebTV traffic bursts
 
