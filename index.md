@@ -163,7 +163,7 @@ layout: index
 ![20141229_graphite_hits](graphs/parltv_20141229_g-aggr-hits.png)
 ![20141229_graphite_workers](graphs/parltv_20141229_g-workers-traffic.png)
 ### GR-IX traffic
-GRNET:
+GRNET:  
 ![20141229_grix_grnet](graphs/parltv_20141229_grix-grnet.png)
-Aggregate:
+Aggregate:  
 ![20141229_grix_total](graphs/parltv_20141229_grix-total.png)
