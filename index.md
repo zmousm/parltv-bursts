@@ -68,7 +68,7 @@ layout: index
 * max 4.72 Gbps (~ 7400@640K or 3700@1280K streams)
 * total 99 GB streaming over HTTPS
 * 44.5K RTMP streams
-* web 235K page views, 136K visitors, 5K referrers
+* web 490K page views, 136K visitors, 5400 referrers
 
 ![20140329_snmp](graphs/parltv_20140329.png)
 ![20140330_snmp](graphs/parltv_20140330.png)
