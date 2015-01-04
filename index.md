@@ -28,8 +28,9 @@ layout: index
 * total 36K streams, 360 GB
 
 ## 2012-11-07
-* max 1K streams, 550 Mbps
-* total 36K streams, 360 GB
+* max 4342 streams, 1.66 Gbps
+* total 212K streams, 4740 GB, 37K client IPs
+* web 171K page views, 89K visitors
 
 ![20121107_snmp](graphs/parltv_20121107_pm.png)
 ![20121107_streams](graphs/streams.parliament.20121107.png)
