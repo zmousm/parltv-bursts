@@ -40,7 +40,7 @@ layout: index
 * total 1726 GB, 8200 client IPs
 * web 26K page views, 18K visitors
 
-![20121110_snmp](graphs/parltv_20121111.png)
+![20121111_snmp](graphs/parltv_20121111.png)
 
 ## 2013-01-17
 * max 1.79 Gbps
@@ -60,15 +60,15 @@ layout: index
 ![20130715-20130719_snmp](graphs/parltv_201307W3.png)
 
 ## 2013-11-08 -- 2013-11-10
-* max 3.55 Gbps (~ 6400 streams)
+* max 3.55 Gbps, approx. 6400 streams
 
 ![20131110_snmp](graphs/parltv_20131110_dc.png)
 ![20131108-20131110_type](graphs/parltv_20131108-20131110_type.png)
 
 ## 2014-03-29 -- 2014-03-31
-* max 4.72 Gbps (~ 7400@640K or 3700@1280K streams)
+* max 4.72 Gbps, approx. 7400@640K or 3700@1280K streams
 * total 99 GB streaming over HTTPS
-* 44.5K RTMP streams
+* total 44.5K RTMP streams
 * web 490K page views, 136K visitors, 5400 referrers
 
 ![20140329_snmp](graphs/parltv_20140329.png)
@@ -76,26 +76,26 @@ layout: index
 ![20140331_snmp](graphs/parltv_20140331.png)
 
 ## 2014-05-07
-* max 2.87 Gbps (~ 4500@640K or 2250@1280K streams)
+* max 2.87 Gbps, approx. 4500@640K or 2250@1280K streams
 * web 55K page views, 20K visitors, 450 referrers
 
 ![20140507_snmp](graphs/parltv_20140507.png)
 
 ## 2014-05-15
-* max 1.5 Gbps (~ 2350@640K or 1180@1280K streams)
+* max 1.5 Gbps, approx. 2350@640K or 1180@1280K streams
 * web 10600 page views, 5200 visitors, 500 referrers
 
 ![20140515_snmp](graphs/parltv_20140515-debate.png)
 
 ## 2014-06-04
-* max 5 Gbps (~ 7850@640K or 3930@1280K streams)
+* max 5 Gbps, approx. 7850@640K or 3930@1280K streams
 * web 210K page views, 69K visitors, 800 referrers
 
 ![20140604_munin](graphs/parltv_20140604.png)
 ![20140604_snmp](graphs/parltv_20140604_snmp.png)
 
 ## 2014-10-08 -- 2014-10-10
-* max 4.5 Gbps (~ 7070@640K or 3530@1280K streams)
+* max 4.5 Gbps, approx. 7070@640K or 3530@1280K streams
 * web
  * 2014-10-08: 66Κ page views, 22.4K visitors, 1170 referrers
  * 2014-10-09: 110K page views, 35K visitors, 1490 referrers
@@ -106,12 +106,12 @@ layout: index
 ![20141010_munin_detail](graphs/parltv_20141010_detail.png)
 
 ## 2014-11-14
-* max 1.76 Gbps (~ 2750@640K or 1370@1280K streams)
+* max 1.76 Gbps, approx. 2750@640K or 1370@1280K streams
 
 ![20141114_snmp](graphs/parltv_20141114.png)
 
 ## 2014-12-07
-* max 6.03 Gbps (~ 9430@640K or 4715@1280K streams)
+* max 6.03 Gbps, approx. 9430@640K or 4715@1280K streams
 * web 280K page views, 63.2K visitors, 1500 referrers
 
 ![20141207_snmp](graphs/parltv_20141207_snmp.png)
@@ -119,13 +119,13 @@ layout: index
 ![20141207_munin_detail](graphs/parltv_20141207_detail.png)
 
 ## 2014-12-10
-* max 3.2 Gbps (~ 5031@640K or 2515@1280K streams)
+* max 3.2 Gbps, approx. 5031@640K or 2515@1280K streams
 * web 118K page views, 40K visitors, 1300 referrers
 
 ![20141210_snmp](graphs/parltv_20141210.png)
 
 ## 2014-12-17
-* max 5.8 Gbps (~ 9060@640K or 4530@1280K streams)
+* max 5.8 Gbps, approx. 9060@640K or 4530@1280K streams
 * web 350K page views, 78.35K visitors, 2360 referrers
 
 ![20141217_snmp](graphs/parltv_20141217_snmp.png)
@@ -133,8 +133,7 @@ layout: index
 ![20141217_munin_detail](graphs/parltv_20141217_detail.png)
 
 ## 2014-12-23
-
-* max 9.45 Gbps (~ 14770@640K or 7385@1280K streams)
+* max 9.45 Gbps, approx. 14770@640K or 7385@1280K streams
 * web 328K page views, 65.5K visitors, 1670 referrers
 
 ![20141223_snmp](graphs/parltv_20141223_snmp.png)
@@ -149,7 +148,7 @@ layout: index
 ![20141223_graphite_workers](graphs/parltv_20141223_g-workers-traffic.png)
 
 ## 2014-12-29
-* max 15.65 Gbps (approx. 16200 streams)
+* max 15.65 Gbps, approx. 16200 streams
 * web 600K page views, 100K visitors, 1600 referrers
 
 ![20141229_munin_summary](graphs/parltv_20141229_summary.png)
