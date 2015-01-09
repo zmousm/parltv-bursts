@@ -1,5 +1,6 @@
 ---
 title: Hellenic Parliament WebTV traffic bursts
+description: Bursts of traffic for the WebTV service of the Hellenic Parliament offered by GRNET
 layout: index
 ---
 # Hellenic Parliament WebTV traffic bursts
