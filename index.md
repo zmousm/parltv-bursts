@@ -172,7 +172,7 @@ layout: index
 
 ## 2015-02-05
 * max 4 Gbps, approx. 6300@640K or 3155@1280K streams
-* web 187K page views, 35K visitors, 1400 referrers
+* web 185K page views, 33K visitors, 1300 referrers
 
 ![20150205_snmp](graphs/parltv_20150205_snmp.png)
 ![20150205_munin_dc](graphs/parltv_20150205_dc.png)
