@@ -184,3 +184,18 @@ layout: index
 ![20150205_graphite_sproto](graphs/parltv_20150205_g-aggr-sproto.png)
 ![20150205_graphite_hits](graphs/parltv_20150205_g-aggr-hits.png)
 ![20150205_graphite_workers](graphs/parltv_20150205_g-workers-traffic.png)
+
+## 2015-02-06
+* max 3.9 Gbps, approx. 6090@640K or 3045@1280K streams
+* web 175K page views, 40K visitors, 1150 referrers
+
+![20150206_snmp](graphs/parltv_20150206_snmp.png)
+![20150206_munin_dc](graphs/parltv_20150206_dc.png)
+![20150206_munin_detail](graphs/parltv_20150206_detail.png)
+### HTTP traffic
+![20150206_graphite_proto](graphs/parltv_20150206_g-aggr-proto.png)
+![20150206_graphite_af](graphs/parltv_20150206_g-aggr-af.png)
+![20150206_graphite_svariant](graphs/parltv_20150206_g-aggr-svariant.png)
+![20150206_graphite_sproto](graphs/parltv_20150206_g-aggr-sproto.png)
+![20150206_graphite_hits](graphs/parltv_20150206_g-aggr-hits.png)
+![20150206_graphite_workers](graphs/parltv_20150206_g-workers-traffic.png)
