@@ -204,7 +204,7 @@ layout: index
 
 ## 2015-02-08
 * max 13.45 Gbps, approx. 18600 streams
-* web 745K page views, 141K visitors, 3900 referrers
+* web 785K page views, 150K visitors, 4K referrers
 
 ![20150208_snmp](graphs/parltv_20150208_snmp.png)
 ![20150208_munin_dc](graphs/parltv_20150208_dc.png)
