@@ -244,7 +244,7 @@ layout: index
 ![20150209_graphite_totalhttp](graphs/parltv_20150209_g-aggr-traffic.png)
 
 ## 2015-02-10
-* max 5.18 Gbps, approx. 20950@640K or 10475@1280K streams
+* max 13.41 Gbps, approx. 20950@640K or 10475@1280K streams
 * web 620K page views, 118K visitors, 3300 referrers
 
 ![20150210_snmp](graphs/parltv_20150210_snmp.png)
