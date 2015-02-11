@@ -203,7 +203,7 @@ layout: index
 ![20150206_graphite_workers](graphs/parltv_20150206_g-workers-traffic.png)
 
 ## 2015-02-08
-* max 13.45 Gbps, approx. 18600 streams
+* max 13.45 Gbps, approx. 21030@640K or 10515@1280K streams
 * web 785K page views, 150K visitors, 4K referrers
 
 ![20150208_snmp](graphs/parltv_20150208_snmp.png)
