@@ -28,6 +28,7 @@ layout: index
 1. [2015-02-08](#2015-02-08)
 1. [2015-02-09](#2015-02-09)
 1. [2015-02-10](#2015-02-10)
+1. [2015-02-17](#2015-02-17)
 
 ## 2012-10-30
 * max 1K streams, 550 Mbps
@@ -265,3 +266,9 @@ layout: index
 ![20150210_grix_grnet](graphs/parltv_20150210_grix-grnet.png)
 #####Aggregate
 ![20150210_grix_total](graphs/parltv_20150210_grix-total.png)
+
+## 2015-02-17
+* max 3.86 Gbps, approx. 6030@640K or 3015@1280K streams
+* web 165K page views, 34K visitors, 2180 referrers
+
+![20150217_snmp](graphs/parltv_20150217_snmp.png)
