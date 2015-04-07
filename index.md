@@ -360,3 +360,26 @@ layout: index
 * max 1.5 Gbps
 
 ![20150404_snmp](graphs/parltv_20150404_snmp.png)
+
+## 2015-04-06
+* max 7.27 Gbps, approx. 11365@640K or 5680@1280K streams
+* web 350K page views, 60K visitors, 1760 referrers
+
+![20150406_snmp](graphs/parltv_20150406_snmp.png)
+![20150406_munin_dc](graphs/parltv_20150406_dc.png)
+![20150406_munin_detail](graphs/parltv_20150406_detail.png)
+### HTTP traffic
+![20150406_graphite_proto](graphs/parltv_20150406_g-aggr-proto.png)
+![20150406_graphite_af](graphs/parltv_20150406_g-aggr-af.png)
+![20150406_graphite_svariant](graphs/parltv_20150406_g-aggr-svariant.png)
+![20150406_graphite_sproto](graphs/parltv_20150406_g-aggr-sproto.png)
+![20150406_graphite_workers](graphs/parltv_20150406_g-workers-traffic.png)
+![20150406_graphite_reqs-hit](graphs/parltv_20150406_g-aggr-reqs-hit.png)
+![20150406_graphite_reqs-miss](graphs/parltv_20150406_g-aggr-reqs-miss.png)
+![20150406_graphite_workers_resp_time](graphs/parltv_20150406_g-workers-resp_time.png)
+![20150406_graphite_totalhttp](graphs/parltv_20150406_g-aggr-traffic.png)
+![20150406_graphite_workers_err_40x](graphs/parltv_20150406_g-workers-err-40x.png)
+![20150406_graphite_workers_err_50x](graphs/parltv_20150406_g-workers-err-50x.png)
+### GR-IX traffic
+#####GRNET
+![20150406_grix_grnet](graphs/parltv_20150406_grix-grnet.png)
