@@ -35,6 +35,8 @@ layout: index
 1. [2015-03-18](#2015-03-18)
 1. [2015-03-30](#2015-03-30)
 1. [2015-04-04](#2015-04-04)
+1. [2015-04-06](#2015-04-06)
+1. [2015-04-24](#2015-04-24)
 
 ## 2012-10-30
 * max 1K streams, 550 Mbps
@@ -383,3 +385,9 @@ layout: index
 ### GR-IX traffic
 #####GRNET
 ![20150406_grix_grnet](graphs/parltv_20150406_grix-grnet.png)
+
+## 2015-04-24
+* max 1.9 Gbps
+
+![20150424_snmp](graphs/parltv_20150424_snmp.png)
+![20150424_graphite_totalhttp](graphs/parltv_20150424_g-aggr-traffic.png)
