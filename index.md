@@ -395,6 +395,7 @@ layout: index
 
 ## 2015-05-08
 * max 3.4 Gbps, approx. 5350@640K or 2675@1280K streams
+* web 115K page views, 23K visitors, 1450 referrers
 
 ![20150508_snmp](graphs/parltv_20150508_snmp.png)
 ![20150508_munin_dc](graphs/parltv_20150508_dc.png)
@@ -402,14 +403,3 @@ layout: index
 ### HTTP traffic
 ![20150508_graphite_proto](graphs/parltv_20150508_g-aggr-proto.png)
 ![20150508_graphite_af](graphs/parltv_20150508_g-aggr-af.png)
-<!--
-![20150508_graphite_svariant](graphs/parltv_20150508_g-aggr-svariant.png)
-![20150508_graphite_sproto](graphs/parltv_20150508_g-aggr-sproto.png)
-![20150508_graphite_workers](graphs/parltv_20150508_g-workers-traffic.png)
-![20150508_graphite_reqs-hit](graphs/parltv_20150508_g-aggr-reqs-hit.png)
-![20150508_graphite_reqs-miss](graphs/parltv_20150508_g-aggr-reqs-miss.png)
-![20150508_graphite_workers_resp_time](graphs/parltv_20150508_g-workers-resp_time.png)
-![20150508_graphite_totalhttp](graphs/parltv_20150508_g-aggr-traffic.png)
-![20150508_graphite_workers_err_40x](graphs/parltv_20150508_g-workers-err-40x.png)
-![20150508_graphite_workers_err_50x](graphs/parltv_20150508_g-workers-err-50x.png)
--->
