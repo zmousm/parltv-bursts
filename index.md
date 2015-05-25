@@ -39,6 +39,7 @@ layout: index
 1. [2015-04-24](#2015-04-24)
 1. [2015-05-07](#2015-05-07)
 1. [2015-05-08](#2015-05-08)
+1. [2015-05-26](#2015-05-26)
 
 ## 2012-10-30
 * max 1K streams, 550 Mbps
@@ -410,3 +411,9 @@ layout: index
 ### HTTP traffic
 ![20150508_graphite_proto](graphs/parltv_20150508_g-aggr-proto.png)
 ![20150508_graphite_af](graphs/parltv_20150508_g-aggr-af.png)
+
+## 2015-05-25
+* max 2 Gbps
+
+![20150525_snmp](graphs/parltv_20150525_snmp.png)
+![20150525_graphite_totalhttp](graphs/parltv_20150525_g-aggr-traffic.png)
