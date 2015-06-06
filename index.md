@@ -40,6 +40,7 @@ layout: index
 1. [2015-05-07](#2015-05-07)
 1. [2015-05-08](#2015-05-08)
 1. [2015-05-26](#2015-05-26)
+1. [2015-06-05](#2015-06-05)
 
 ## 2012-10-30
 * max 1K streams, 550 Mbps
@@ -417,3 +418,28 @@ layout: index
 
 ![20150525_snmp](graphs/parltv_20150525_snmp.png)
 ![20150525_graphite_totalhttp](graphs/parltv_20150525_g-aggr-traffic.png)
+
+## 2015-06-05
+* max 13.23 Gbps, approx. 20666@640K or 10333@1280K streams
+* web 315K page views, 158K visitors, 2800 referrers
+
+![20150605_snmp](graphs/parltv_20150605_snmp.png)
+![20150605_munin_dc](graphs/parltv_20150605_dc.png)
+![20150605_munin_detail](graphs/parltv_20150605_detail.png)
+### HTTP traffic
+![20150605_graphite_proto](graphs/parltv_20150605_g-aggr-proto.png)
+![20150605_graphite_af](graphs/parltv_20150605_g-aggr-af.png)
+![20150605_graphite_svariant](graphs/parltv_20150605_g-aggr-svariant.png)
+![20150605_graphite_sproto](graphs/parltv_20150605_g-aggr-sproto.png)
+![20150605_graphite_workers](graphs/parltv_20150605_g-workers-traffic.png)
+![20150605_graphite_reqs-hit](graphs/parltv_20150605_g-aggr-reqs-hit.png)
+![20150605_graphite_reqs-miss](graphs/parltv_20150605_g-aggr-reqs-miss.png)
+![20150605_graphite_workers_resp_time](graphs/parltv_20150605_g-workers-resp_time.png)
+![20150605_graphite_totalhttp](graphs/parltv_20150605_g-aggr-traffic.png)
+![20150605_graphite_workers_err_40x](graphs/parltv_20150605_g-workers-err-40x.png)
+![20150605_graphite_workers_err_50x](graphs/parltv_20150605_g-workers-err-50x.png)
+### GR-IX traffic
+#####GRNET
+![20150605_grix_grnet](graphs/parltv_20150605_grix-grnet.png)
+#####Aggregate
+![20150605_grix_total](graphs/parltv_20150605_grix-total.png)
