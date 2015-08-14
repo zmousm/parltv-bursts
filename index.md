@@ -550,6 +550,11 @@ layout: index
 #####Aggregate
 ![20150722_grix_total](graphs/parltv_20150722_grix-total.png)
 
+## 2015-07-31
+* max 3.5 Gbps
+
+![20150731_graphite_totalhttp](graphs/parltv_20150731_g-aggr-traffic.png)
+
 ## 2015-08-12 -- 2015-08-14
 * max 10.72 Gbps, approx. 16750@640K or 8380@1280K streams
 * web 750K page views, 370K visitors, approx. 4K referrers
