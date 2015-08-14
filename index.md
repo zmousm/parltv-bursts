@@ -478,7 +478,7 @@ layout: index
 * web 390K page views, 180K visitors, 4300 referrers
 
 ![20150710_snmp](graphs/parltv_20150710_snmp.png)
-![20150710_snmp](graphs/parltv_20150710_dc.png)
+![20150710_munin_dc](graphs/parltv_20150710_dc.png)
 ![20150710_munin_detail](graphs/parltv_20150710_detail.png)
 ### HTTP traffic
 ![20150710_graphite_proto](graphs/parltv_20150710_g-aggr-proto.png)
@@ -529,7 +529,7 @@ layout: index
 * web 400K page views, 170K visitors, approx. 4500 referrers
 
 ![20150722_snmp](graphs/parltv_20150722_snmp.png)
-![20150722_munin_detail](graphs/parltv_20150722_dc.png)
+![20150722_munin_dc](graphs/parltv_20150722_dc.png)
 ![20150722_munin_detail](graphs/parltv_20150722_detail.png)
 ### HTTP traffic
 ![20150722_graphite_proto](graphs/parltv_20150722_g-aggr-proto.png)
