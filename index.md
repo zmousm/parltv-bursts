@@ -45,6 +45,7 @@ layout: index
 1. [2015-07-10](#2015-07-10)
 1. [2015-07-15](#2015-07-15)
 1. [2015-07-22](#2015-07-22)
+1. [2015-08-12 -- 2015-08-14](#2015-08-12----2015-08-14)
 
 ## 2012-10-30
 * max 1K streams, 550 Mbps
@@ -548,3 +549,29 @@ layout: index
 ![20150722_grix_grnet](graphs/parltv_20150722_grix-grnet.png)
 #####Aggregate
 ![20150722_grix_total](graphs/parltv_20150722_grix-total.png)
+
+## 2015-08-12 -- 2015-08-14
+* max 10.72 Gbps, approx. 16750@640K or 8380@1280K streams
+* web 750K page views, 370K visitors, approx. 4K referrers
+
+![20150812-20150814_snmp](graphs/parltv_20150812-20150814_snmp.png)
+![20150812-20150814_munin_dc](graphs/parltv_20150812-20150814_dc.png)
+![20150812-20150814_munin_detail](graphs/parltv_20150812-20150814_detail.png)
+### HTTP traffic
+![20150812-20150814_graphite_proto](graphs/parltv_20150812-20150814_g-aggr-proto.png)
+![20150812-20150814_graphite_af](graphs/parltv_20150812-20150814_g-aggr-af.png)
+![20150812-20150814_graphite_svariant](graphs/parltv_20150812-20150814_g-aggr-svariant.png)
+![20150812-20150814_graphite_sproto](graphs/parltv_20150812-20150814_g-aggr-sproto.png)
+![20150812-20150814_graphite_workers](graphs/parltv_20150812-20150814_g-workers-traffic.png)
+![20150812-20150814_graphite_reqs-hit](graphs/parltv_20150812-20150814_g-aggr-reqs-hit.png)
+![20150812-20150814_graphite_reqs-miss](graphs/parltv_20150812-20150814_g-aggr-reqs-miss.png)
+![20150812-20150814_graphite_workers_resp_time_ipv4](graphs/parltv_20150812-20150814_g-workers-resp_time-ipv4.png)
+![20150812-20150814_graphite_workers_resp_time_ipv6](graphs/parltv_20150812-20150814_g-workers-resp_time-ipv6.png)
+![20150812-20150814_graphite_totalhttp](graphs/parltv_20150812-20150814_g-aggr-traffic.png)
+![20150812-20150814_graphite_workers_err_40x](graphs/parltv_20150812-20150814_g-workers-err-40x.png)
+![20150812-20150814_graphite_workers_err_50x](graphs/parltv_20150812-20150814_g-workers-err-50x.png)
+### GR-IX traffic
+#####GRNET
+![20150812-20150814_grix_grnet](graphs/parltv_20150812-20150814_grix-grnet.png)
+#####Aggregate
+![20150812-20150814_grix_total](graphs/parltv_20150812-20150814_grix-total.png)
