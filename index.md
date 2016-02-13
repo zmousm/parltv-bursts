@@ -54,6 +54,7 @@ layout: index
 1. [2015-12-05](#2015-12-05)
 1. [2015-12-22](#2015-12-22)
 1. [2016-01-26](#2016-01-26)
+1. [2016-02-11](#2016-02-11)
 
 ## 2012-10-30
 * max 1K streams, 550 Mbps
@@ -646,3 +647,8 @@ layout: index
 ![20160126_grix_grnet](graphs/parltv_20160126_grix-grnet.png)
 #####Aggregate
 ![20160126_grix_total](graphs/parltv_20160126_grix-total.png)
+
+## 2015-12-22
+* max 6.3 Gbps
+
+![20160211_snmp](graphs/parltv_20160211_snmp.png)
