@@ -648,7 +648,7 @@ layout: index
 #####Aggregate
 ![20160126_grix_total](graphs/parltv_20160126_grix-total.png)
 
-## 2015-12-22
+## 2016-02-11
 * max 6.3 Gbps
 
 ![20160211_snmp](graphs/parltv_20160211_snmp.png)
